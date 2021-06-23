@@ -6,7 +6,7 @@ Multiclass classification problem on Eurosat Sentinel-2 satellite images to pred
 
 # Architectures used
 
-1.Densenet121
-2.Resnet50
-3.VGG19
-4.GoogleNet
+1. Densenet121
+2. Resnet50
+3. VGG19
+4. GoogleNet
